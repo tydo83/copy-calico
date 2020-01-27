@@ -18,7 +18,7 @@ Remember our project rules, make sure you create a repo on GitHub before you sta
 
 ### Stretch Goal 
 
-If you finished copying that ONE ONLY website, challenge yourself and choose to copy another one. Have fun!
+If you finished copying that website, challenge yourself and copy another one. It will supply you with a whole other set of challenges!
 
 ![Replicate](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F1dj52z.jpg&f=1)
 
