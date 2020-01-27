@@ -6,6 +6,13 @@ Now that we have become masters of Copy Kitten let's become masters of Copy Cali
 
 Below you will find a list of the websites that you have been requested to copy by Copy Calico so we get access to the next league.  Don't worry you don't have to copy all of them, you only have to choose one and work with that one. ONLY ONE!
 
+
+### Basic Setup
+
+Start a whole new repo, call it what you want, make html and css files, and get going!
+
+Do NOT forget to add a `link` tag from your html to your css. Ask a friendly neighbor, teacher, or search box if you're not too solid on how to do that yet!
+
 ## List of the Websites to choose from:
 
 * [Google](https://www.google.com/) 
